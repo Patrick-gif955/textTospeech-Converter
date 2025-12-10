@@ -1,9 +1,9 @@
-Text-to-Speech Converter
+## Text-to-Speech Converter
 
 This is a simple text-to-speech web application built with HTML, CSS, and JavaScript.
 It allows a user to type text, select a voice from the available browser voices, and play the spoken output.
 
-##Features
+## Features
 
 Convert typed text to speech in the browser
 
@@ -44,7 +44,7 @@ CSS (Flexbox, clamp)
 
 JavaScript (Web Speech API)
 
-##Project Structure
+## Project Structure
 index.html  
 style.css  
 script.js
