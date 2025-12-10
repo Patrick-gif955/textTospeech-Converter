@@ -15,7 +15,7 @@
     Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .hero h1 {
-  font-size: clamp(1.9rem, 2.5rem, 3.5rem);
+  font-size: clamp(1.5rem, 2.5vw, 3.5rem);
   color: #fff3e9;
 }
 .hero h1 span {
@@ -23,7 +23,7 @@
 }
 
 textarea {
-  width: 600px;
+  width: clamp(300px, 80vw, 600px);
   height: 250px;
   background-color: #403d84;
   color: #fff;
@@ -40,7 +40,7 @@ textarea::placeholder {
 }
 
 .row {
-  width: 600px;
+  width: clamp(300px, 80vw, 600px);
   display: flex;
   align-items: center;
   gap: 20px;
@@ -58,6 +58,7 @@ button {
 }
 select {
   flex: 1;
+  min-width: 0;
   color: #fff;
   background: #403d84;
   height: 50px;
@@ -65,5 +66,5 @@ select {
   outline: 0;
   border: 0;
   border-radius: 35px;
-  appearance: calc(100% - 0px);
+  /* appearance: calc(100% - 0px); */
 }
