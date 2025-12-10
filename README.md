@@ -16,19 +16,25 @@ Minimal and easy-to-use interface
 Works on both desktop and mobile browsers
 
 
-##What I Learned From This Project
+## What I Learned From This Project
 
-How to use the Web Speech API for speech synthesis
+How to use the Web Speech API for speech synthesis.
 
-How to populate and update a <select> element with dynamic data
 
-How to trigger browser-based speech with JavaScript
+How to populate and update a <select> element with dynamic data.
 
-How to structure a simple UI using Flexbox
 
-How to make elements responsive using clamp() without media queries
+How to trigger browser-based speech with JavaScript.
 
-How to connect HTML, CSS, and JavaScript together in one working project
+
+How to structure a simple UI using Flexbox.
+
+
+How to make elements responsive using clamp() without media queries.
+
+
+How to connect HTML, CSS, and JavaScript together in one working project.
+
 
 Technologies Used
 
@@ -43,5 +49,5 @@ index.html
 style.css  
 script.js
 
-Live Link:[TextToSpeech Converter]()
+Live Link:[TextToSpeech Converter](https://patrick-gif955.github.io/textTospeech-Converter/)
 
