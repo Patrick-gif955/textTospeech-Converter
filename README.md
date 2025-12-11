@@ -20,44 +20,23 @@ Works on both desktop and mobile browsers
 
 How to use the Web Speech API for speech synthesis.
 
+ How to populate and update a <select> element with dynamic data.
 
-# How to populate and update a <select> element with dynamic data.
+How to trigger browser-based speech with JavaScript.
 
+How to structure a simple UI using Flexbox.
 
+ How to make elements responsive using clamp() without media queries.
 
-
-# How to trigger browser-based speech with JavaScript.
-
-
-
-
-# How to structure a simple UI using Flexbox.
+How to connect HTML, CSS, and JavaScript together in one working project.
 
 
-
-
-
-# How to make elements responsive using clamp() without media queries.
-
-
-
-
-# How to connect HTML, CSS, and JavaScript together in one working project.
-
-
-
-
-
-# Technologies Used
+ Technologies Used
 
 
 HTML
 
-
-
 CSS (Flexbox, clamp)
-
-
 
 JavaScript (Web Speech API)
 
@@ -76,6 +55,5 @@ script.js
 
 
 
-
-# Live Link:[TextToSpeech Converter](https://patrick-gif955.github.io/textTospeech-Converter/)
+ Live Link:[TextToSpeech Converter](https://patrick-gif955.github.io/textTospeech-Converter/)
 
