@@ -28,5 +28,4 @@ It lets a user type text, select a voice from the available browser voices, and 
 
 - Live link: [TextToSpeech Converter](https://patrick-gif955.github.io/textTospeech-Converter/)
 
-## Project Structure
 
